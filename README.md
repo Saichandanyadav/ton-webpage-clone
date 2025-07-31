@@ -16,16 +16,19 @@
 - Fully styled footer with important links
 
 ## 📸 Preview
-![Preview Image](assets/preview.jpg) *(Replace with actual preview if available)*
+<img width="1887" height="874" alt="preview" src="https://github.com/user-attachments/assets/bee390d1-1aa3-4e48-87d0-96265504c315" />
+
 
 ## 🔗 Live Demo
-👉 [View Live Website](https://your-username.github.io/ton-webpage-clone/)
+👉 **Live Site:** [ton-webpage-clone.vercel.app](https://ton-webpage-clone.vercel.app/)
+
+👉 **GitHub Repo:** [github.com/Saichandanyadav/ton-webpage-clone](https://github.com/Saichandanyadav/ton-webpage-clone)
 
 ## 📁 How to Run Locally
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ton-webpage-clone.git
+   git clone https://github.com/Saichandanyadav/ton-webpage-clone.git
    cd ton-webpage-clone
 ````
 
@@ -35,7 +38,7 @@
    open index.html
    ```
 
-   or simply double-click the file in your file explorer.
+   Or simply double-click the file in your file explorer.
 
 ## 📂 Folder Structure
 
@@ -64,3 +67,5 @@ ton-webpage-clone/
 ## 🙌 Credits
 
 This project was developed for educational and demonstration purposes based on the design and layout concept of the original TON platform.
+
+Happy coding! 🚀
